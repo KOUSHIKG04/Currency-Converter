@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans&family=Poppins:wght@200;300&display=swap');
+
+
+* {
+    margin: 0;padding: 0;
+}
+
+body {
+    min-height: 100vh;
+    background: #b7dc76c5;
+}
+
+.container {
+    background: #b7dc7603;
+}
+
+form {
+    font-family: 'Indie Flower', cursive;
+    background: #fff;padding: 2rem;
+    border-radius: 10px;
+    height: 500px; width: 400px;
+    box-shadow: 0 20px 30px rgba(0, 0, 0, 0.618);
+}
+
+form select,input,button {
+   width: 100%;border: none;
+   outline: none;
+   border-radius: .75rem;
+}
+
+p{
+    margin-bottom: 1rem;
+}
+
+form input {
+    border: 1px solid lightgray;
+    font-size: 1.2rem;height: 2.5rem;
+    padding: 0.75rem;
+}
+
+form select {
+    border: 2px solid lightgray;
+    font-size: 1.25rem; color: #fff;
+    background: #3c4926;
+ }
+
+.dropdown{
+    justify-content: space-between;
+}
+
+/* h3{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+} */
+
+img{
+    border-radius: 200px;
+}
+
