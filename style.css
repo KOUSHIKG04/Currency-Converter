@@ -15,7 +15,8 @@ body {
 }
 
 form {
-    font-family: 'Indie Flower', cursive;
+/*     font-family: 'Indie Flower', cursive; */
+    font-family: "Noto Sans", sans-serif;
     background: #fff;padding: 2rem;
     border-radius: 10px;
     height: 500px; width: 400px;
